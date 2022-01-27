@@ -1,1 +1,3 @@
 Hi this is my 1st sample test run
+this is via visual studio code test sample 
+thanks
